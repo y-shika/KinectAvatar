@@ -6,6 +6,7 @@ using Windows.Kinect;
 
 public class KinectAvater : MonoBehaviour {
     public bool IsMirror = true;
+    [SerializeField] private bool isSitting = false;
 
     public BodySourceManager _BodyManager;
     public GameObject _UnityChan;
@@ -53,7 +54,7 @@ public class KinectAvater : MonoBehaviour {
         RightHand = RightForeArm.transform.Find("Character1_RightHand").gameObject;
         Neck = Spine2.transform.Find("Character1_Neck").gameObject;
         Head = Neck.transform.Find("Character1_Head").gameObject;
-        Eye = Head.transform.Find("eye_base_old").gameObject;
+        //Eye = Head.transform.Find("eye_base_old").gameObject;
     }
 	
 	// Update is called once per frame
@@ -102,6 +103,8 @@ public class KinectAvater : MonoBehaviour {
         Quaternion AnkleLeft;
         Quaternion KneeRight;
         Quaternion AnkleRight;
+        Quaternion neckQuaternion;
+        Quaternion headQuaternion;
 
         // 鏡
         // 鏡のため，Left <-> Rightとしている
@@ -122,6 +125,8 @@ public class KinectAvater : MonoBehaviour {
             AnkleLeft = joints[JointType.AnkleRight].Orientation.ToMirror().ToQuaternion(comp);
             KneeRight = joints[JointType.KneeLeft].Orientation.ToMirror().ToQuaternion(comp);
             AnkleRight = joints[JointType.AnkleLeft].Orientation.ToMirror().ToQuaternion(comp);
+            neckQuaternion = joints[JointType.Neck].Orientation.ToMirror().ToQuaternion(comp);
+            headQuaternion = joints[JointType.Head].Orientation.ToMirror().ToQuaternion(comp);
         }
         else
         {
@@ -140,6 +145,8 @@ public class KinectAvater : MonoBehaviour {
             AnkleLeft = joints[JointType.AnkleLeft].Orientation.ToQuaternion(comp);
             KneeRight = joints[JointType.KneeRight].Orientation.ToQuaternion(comp);
             AnkleRight = joints[JointType.AnkleRight].Orientation.ToQuaternion(comp);
+            neckQuaternion = joints[JointType.Neck].Orientation.ToQuaternion(comp);
+            headQuaternion = joints[JointType.Head].Orientation.ToQuaternion(comp);
         }
 
         // 関節の回転を計算する
@@ -153,17 +160,23 @@ public class KinectAvater : MonoBehaviour {
 
         RightArm.transform.rotation = ElbowRight * comp2;
         RightForeArm.transform.rotation = WristRight * comp2;
-        RightHand.transform.rotation = HandRight * comp2;
+        //RightHand.transform.rotation = HandRight * comp2;
 
         LeftArm.transform.rotation = ElbowLeft * comp2;
         LeftForeArm.transform.rotation = WristLeft * comp2;
-        LeftHand.transform.rotation = HandLeft * comp2;
+        //LeftHand.transform.rotation = HandLeft * comp2;
 
-        RightUpLeg.transform.rotation = KneeRight * comp2;
-        RightLeg.transform.rotation = AnkleRight * comp2;
+        if (!isSitting)
+        {
+            RightUpLeg.transform.rotation = KneeRight * comp2;
+            RightLeg.transform.rotation = AnkleRight * comp2;
 
-        LeftUpLeg.transform.rotation = KneeLeft * Quaternion.AngleAxis(-90, new Vector3(0, 0, 1));
-        LeftLeg.transform.rotation = AnkleLeft * Quaternion.AngleAxis(-90, new Vector3(0, 0, 1));
+            LeftUpLeg.transform.rotation = KneeLeft * Quaternion.AngleAxis(-90, new Vector3(0, 0, 1));
+            LeftLeg.transform.rotation = AnkleLeft * Quaternion.AngleAxis(-90, new Vector3(0, 0, 1));
+        }
+
+        Neck.transform.rotation = neckQuaternion * comp2;
+        Head.transform.rotation = headQuaternion * comp2;
 
         // モデルの回転を設定する
         transform.rotation = q;
