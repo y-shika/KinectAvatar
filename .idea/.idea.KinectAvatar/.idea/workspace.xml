@@ -5,233 +5,135 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61abf0eb-1046-48e4-9875-3335d3acef63" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.KinectAvatar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KinectAvatar/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Audio.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Audio/vox_lp_01.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Audio/vox_lp_01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Audio/vox_lp_01_lipSync.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Audio/vox_lp_01_lipSync.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Editor/OVRLipSyncTool.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Editor/OVRLipSyncTool.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Editor/OVRNamedArrayPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Editor/OVRNamedArrayPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/Lips.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/Lips/Lips.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/Lips/Lips.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/Lips/Source.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/Lips/Source/Lips [Albedo].tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/Lips/Source/Lips [Albedo].tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/Lips/Source/Lips [Emission].tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/Lips/Source/Lips [Emission].tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/Lips/Source/Lips [Normal].tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/Lips/Source/Lips [Normal].tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/Lips/Source/Lips [Specular].tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/Lips/Source/Lips [Specular].tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/Lips/Source/Lips.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/Lips/Source/Lips.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/Lips/Source/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/Lips/Source/Materials/Lips.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/Lips/Source/Materials/Lips.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/Lips/Source/Materials/Lips_Alpha.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/Lips/Source/Materials/Lips_Alpha.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/CH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/CH.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/DD.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/DD.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/E.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/FF.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/FF.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/Head-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/Head-2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/Materials/Head-2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/Materials/Head-2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/Materials/sil.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/Materials/sil.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/PP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/PP.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/RR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/RR.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/RobotHead_TextureFlip.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/RobotHead_TextureFlip.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/SS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/SS.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/TH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/TH.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/aa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/aa.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/ih.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/ih.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/kk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/kk.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/nn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/nn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/oh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/oh.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/ou.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/ou.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/sil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/sil.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Plugins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Plugins/Android32.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Plugins/Android32/libOVRLipSync.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Plugins/Android32/libOVRLipSync.so.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Plugins/Android64.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Plugins/Android64/libOVRLipSync.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Plugins/Android64/libOVRLipSync.so.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Plugins/MacOSX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Plugins/MacOSX/OVRLipSync.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Plugins/MacOSX/OVRLipSync.bundle.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Plugins/Win64.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Plugins/Win64/OVRLipSync.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Plugins/Win64/OVRLipSync.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Prefabs/LipSyncDebugConsole.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Prefabs/LipSyncDebugConsole.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Prefabs/LipSyncInterface.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Prefabs/LipSyncInterface.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Prefabs/LipSyncMorphTarget_Lips.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Prefabs/LipSyncMorphTarget_Lips.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Prefabs/LipSyncTextureFlipTarget_Robot.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Prefabs/LipSyncTextureFlipTarget_Robot.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scenes/LipSync_Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scenes/LipSync_Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scenes/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scenes/Scripts/EnableSwitch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scenes/Scripts/EnableSwitch.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scenes/Scripts/LipSyncDemo_Control.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scenes/Scripts/LipSyncDemo_Control.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scenes/Scripts/LipSyncDemo_SetCurrentTarget.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scenes/Scripts/LipSyncDemo_SetCurrentTarget.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/Helpers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/Helpers/OVRLipSyncDebugConsole.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/Helpers/OVRLipSyncDebugConsole.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/Helpers/OVRNamedArrayAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/Helpers/OVRNamedArrayAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/Helpers/OVRTouchpad.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/Helpers/OVRTouchpad.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSync.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSync.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSyncContext.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSyncContext.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSyncContextBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSyncContextBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSyncContextCanned.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSyncContextCanned.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSyncContextMorphTarget.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSyncContextMorphTarget.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSyncContextTextureFlip.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSyncContextTextureFlip.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSyncMicInput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSyncMicInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSyncSequence.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSyncSequence.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/UnityChanScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/UnityChanScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/KinectAvater.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/KinectAvater.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Amimators.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Amimators/UnityChanARPose.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Amimators/UnityChanARPose.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Amimators/UnityChanActionCheck.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Amimators/UnityChanActionCheck.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Amimators/UnityChanLocomotions.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Amimators/UnityChanLocomotions.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_ARpose1.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_ARpose1.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_ARpose2.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_ARpose2.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_DAMAGED00.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_DAMAGED00.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_DAMAGED01.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_DAMAGED01.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_HANDUP00_R.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_HANDUP00_R.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_JUMP00.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_JUMP00.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_JUMP00B.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_JUMP00B.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_JUMP01.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_JUMP01.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_JUMP01B.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_JUMP01B.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_LOSE00.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_LOSE00.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_REFLESH00.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_REFLESH00.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_RUN00_F.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_RUN00_F.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_RUN00_L.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_RUN00_L.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_RUN00_R.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_RUN00_R.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_SLIDE00.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_SLIDE00.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_UMATOBI00.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_UMATOBI00.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT00.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT00.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT01.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT01.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT02.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT02.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT03.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT03.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT04.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT04.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WALK00_B.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WALK00_B.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WALK00_F.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WALK00_F.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WALK00_L.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WALK00_L.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WALK00_R.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WALK00_R.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WIN00.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WIN00.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/ASHAMED.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/ASHAMED.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/ASHAMED.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/ASHAMED.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/SURPRISE.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/SURPRISE.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/SURPRISE.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/SURPRISE.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/angry1@unitychan.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/angry1@unitychan.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/angry1@unitychan.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/angry1@unitychan.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/angry2@unitychan.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/angry2@unitychan.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/angry2@unitychan.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/angry2@unitychan.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/conf@unitychan.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/conf@unitychan.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/conf@unitychan.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/conf@unitychan.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/default@unitychan.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/default@unitychan.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/default@unitychan.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/default@unitychan.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/disstract1@unitychan.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/disstract1@unitychan.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/disstract1@unitychan.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/disstract1@unitychan.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/disstract2@unitychan.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/disstract2@unitychan.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/disstract2@unitychan.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/disstract2@unitychan.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/eye_close@unitychan.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/eye_close@unitychan.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/eye_close@unitychan.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/eye_close@unitychan.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/face only mask.mask" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/face only mask.mask" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/face only mask.mask.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/face only mask.mask.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/sap@unitychan.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/sap@unitychan.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/sap@unitychan.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/sap@unitychan.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/smile1@unitychan.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/smile1@unitychan.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/smile1@unitychan.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/smile1@unitychan.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/smile2@unitychan.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/smile2@unitychan.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/smile2@unitychan.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/smile2@unitychan.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/BoxUnityChan.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/BoxUnityChan.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/BoxUnityChan.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/BoxUnityChan.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/Left.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/Left.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/Left.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/Left.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/Right.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/Right.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/Right.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/Right.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/body.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/body.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/body.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/body.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eye_L1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eye_L1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eye_L1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eye_L1.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eye_R1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eye_R1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eye_R1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eye_R1.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eyebase.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eyebase.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eyebase.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eyebase.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eyeline.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eyeline.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eyeline.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eyeline.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/face.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/face.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/face.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/face.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/hair.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/hair.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/hair.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/hair.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/mat_cheek.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/mat_cheek.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/mat_cheek.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/mat_cheek.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/skin1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/skin1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/skin1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/skin1.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/body.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/body.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/body.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/body.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eye_L1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eye_L1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eye_L1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eye_L1.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eye_R1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eye_R1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eye_R1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eye_R1.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eyebase.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eyebase.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eyebase.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eyebase.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eyeline.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eyeline.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eyeline.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eyeline.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/face.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/face.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/face.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/face.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/hair.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/hair.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/hair.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/hair.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/mat_cheek.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/mat_cheek.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/mat_cheek.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/mat_cheek.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/skin1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/skin1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/skin1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/skin1.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/CharaMain.cg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/CharaMain.cg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/CharaMain.cg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/CharaMain.cg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/CharaOutline.cg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/CharaOutline.cg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/CharaSkin.cg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/CharaSkin.cg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/CharaSkin.cg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/CharaSkin.cg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_akarami_blend.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_akarami_blend.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_akarami_blend.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_akarami_blend.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye_blend.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye_blend.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye_blend.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye_blend.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eyelash_blend.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eyelash_blend.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eyelash_blend.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eyelash_blend.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku_ds.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku_ds.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku_ds.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku_ds.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hada.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hada.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hada.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hada.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hada_blend.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hada_blend.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hada_blend.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hada_blend.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hair.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hair.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hair.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hair.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hair_ds.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hair_ds.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hair_ds.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hair_ds.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/DEFAULT_NORMAL.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/DEFAULT_NORMAL.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/ENV2.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/ENV2.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/FO_CLOTH1.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/FO_CLOTH1.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/FO_RIM1.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/FO_RIM1.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/FO_SKIN1.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/FO_SKIN1.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/body_01.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/body_01.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/body_01_NRM.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/body_01_NRM.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/body_01_SPEC.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/body_01_SPEC.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/cheek_00.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/cheek_00.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/eye_iris_L_00.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/eye_iris_L_00.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/eye_iris_R_00.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/eye_iris_R_00.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/eyeline_00.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/eyeline_00.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/face_00.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/face_00.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/guide.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/guide.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/hair_01.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/hair_01.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/hair_01_NRM.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/hair_01_NRM.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/hair_01_SPEC.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/hair_01_SPEC.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/skin_01.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/skin_01.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/unitychan.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/unitychan.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/unitychan.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Models/unitychan.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/BoxUnityChan.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/BoxUnityChan.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/BoxUnityChan.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/BoxUnityChan.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/Directional light for UnityChan.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/Directional light for UnityChan.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/Directional light for UnityChan.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/Directional light for UnityChan.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/LevelLoader.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/LevelLoader.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/LookPos.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/LookPos.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/LookPos.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/LookPos.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/CamPos.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/CamPos.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/CamPos.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/CamPos.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/FrontPos.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/FrontPos.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/FrontPos.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/FrontPos.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/JumpPos.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/JumpPos.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/JumpPos.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/JumpPos.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/LookAtPos.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/LookAtPos.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/LookAtPos.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/LookAtPos.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/Main Camera.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/Main Camera.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/Main Camera.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/Main Camera.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/unitychan.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/unitychan.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/unitychan.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/unitychan.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/unitychan.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/unitychan.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/unitychan.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/unitychan.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/ReadMe.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/ReadMe.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/ReadMe/ReadMe_en.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/ReadMe/ReadMe_en.pdf.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/ReadMe/ReadMe_jp.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/ReadMe/ReadMe_jp.pdf.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scenes.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scenes/ARPoseTest.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scenes/ARPoseTest.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scenes/ARPoseTest.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scenes/ARPoseTest.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scenes/ActionCheck.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scenes/ActionCheck.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scenes/ActionCheck.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scenes/ActionCheck.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scenes/Locomotion.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scenes/Locomotion.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scenes/Locomotion.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scenes/Locomotion.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/CameraController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/CameraController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/CameraController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/CameraController.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/FaceUpdate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/FaceUpdate.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/FaceUpdate.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/FaceUpdate.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/IdleChanger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/IdleChanger.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/IdleChanger.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/IdleChanger.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/SceneLoader.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/SceneLoader.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/ThirdPersonCamera.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/ThirdPersonCamera.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/ThirdPersonCamera.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/ThirdPersonCamera.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile3.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile3.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile3.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile4.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile4.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile4.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile4.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile5.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile5.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile5.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile5.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile6.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile6.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile6.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile6.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage/Shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Shader/AlphaMask.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage/Shader/AlphaMask.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Shader/Textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage/Shader/Textures.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Shader/Textures/AlphaMask.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage/Shader/Textures/AlphaMask.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Shader/Textures/Unity_Icon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage/Shader/Textures/Unity_Icon.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage/Textures.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Textures/unitychan_tile3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage/Textures/unitychan_tile3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Textures/unitychan_tile4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage/Textures/unitychan_tile4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Textures/unitychan_tile5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage/Textures/unitychan_tile5.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Textures/unitychan_tile6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/Stage/Textures/unitychan_tile6.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/license.txt.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -244,7 +146,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/KinectView/Scripts/BodySourceManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="51">
               <caret line="8" column="16" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="16" />
               <folding>
                 <marker date="1533382718208" expanded="false" signature="6:66" ph="..." />
@@ -270,9 +172,159 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PS4Controller.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+              <folding>
+                <marker date="1545899110000" expanded="true" signature="6:110" ph="..." />
+                <marker date="1545899110000" expanded="true" signature="155:2533" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="189:551" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="511:532" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="557:687" ph="/* 仕様では入力は16まである想定のため、Facialボタンと記号ボタンの16通りで行う。 ... */" />
+                <marker date="1545899110000" expanded="true" signature="734:1312" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="768:865" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="898:999" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="1033:1134" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="1143:1283" ph="/* else if(i &gt;= 12 &amp;&amp; i &lt; 16) ... */" />
+                <marker date="1545899110000" expanded="true" signature="1358:1936" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="1392:1489" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="1522:1623" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="1657:1758" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="1767:1907" ph="/* else if(i &gt;= 12 &amp;&amp; i &lt; 16) ... */" />
+                <marker date="1545899110000" expanded="true" signature="2012:2119" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="2165:2270" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="2321:2531" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="2355:2429" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="2442:2525" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CafeFace.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="225" selection-start-line="225" selection-end-line="225" />
+              <folding>
+                <marker date="1555854585180" expanded="false" signature="6:66" ph="..." />
+                <marker date="1555854585180" expanded="true" signature="101:7401" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="290:397" ph="/* private VLARKitEyeTracking _vlARKitEyeTracking = null; ... */" />
+                <marker date="1555854585180" expanded="true" signature="403:476" ph="///  PoseのdetailIndexで設定。表示したいメシュの名前 ... " />
+                <marker date="1555854585180" expanded="true" signature="523:582" ph="/// detail mesh表示のスピード ... " />
+                <marker date="1555854585180" expanded="true" signature="902:1326" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="1216:1283" ph="/// detailMeshNamesのやつ ... " />
+                <marker date="1555854585180" expanded="true" signature="1371:1657" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="1995:2161" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="2198:2744" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="2330:2402" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="2412:2714" ph="/* iPhoneX(ARKit)を使う時にだけ作用するようにする ... */" />
+                <marker date="1555854585180" expanded="true" signature="2762:3408" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="2842:3065" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="3175:3250" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="3455:3632" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="3677:3817" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="3863:3875" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="3911:4010" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="3949:4004" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="4046:4183" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="4233:4355" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="4402:4446" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="4492:4647" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="4534:4640" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="4666:5951" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="4737:5156" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="4800:5146" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="4868:4930" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="4947:5132" ph="/* 押している間、表情変わり、離すと表情戻る機能だと少々使いにくかったため、ひとまずコメントアウトしておく ... */" />
+                <marker date="1555854585180" expanded="true" signature="5296:5766" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="5318:5712" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="5333:5648" ph="/* if (pattern[pressedKeyboardNumber].skinIndex == 0) ... */" />
+                <marker date="1555854585180" expanded="true" signature="5816:5945" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="5987:6387" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="6224:6381" ph="/* 使わないことも想定されるためコンポーネントがアクティブになっていることを確認する ... */" />
+                <marker date="1555854585180" expanded="true" signature="6423:6841" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="6529:6592" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="6661:6835" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="6723:6825" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="6871:7313" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="6933:7299" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="7000:7029" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="7104:7289" ph="{...}" />
+                <marker date="1555854585180" expanded="true" signature="7348:7399" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/OVRLipSync/Scripts/OVRLipSyncContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="207" selection-start-line="207" selection-end-line="207" />
+              <folding>
+                <marker date="1545899110000" expanded="true" signature="0:1107" ph="/* Filename    :   OVRLipSyncContext.cs ... */" />
+                <marker date="1545899110000" expanded="true" signature="1169:1466" ph="/* OVRLipSyncContext interfaces into the Oculus phoneme recognizer. ... */" />
+                <marker date="1545899110000" expanded="true" signature="1521:10415" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="1528:1578" ph="/* Public members ... */" />
+                <marker date="1545899110000" expanded="true" signature="2706:2757" ph="/* Private members ... */" />
+                <marker date="1545899110000" expanded="true" signature="2763:2918" ph="/// Start this instance. ... " />
+                <marker date="1545899110000" expanded="true" signature="2935:3331" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="3033:3115" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="3262:3325" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="3337:3399" ph="/// Handle keyboard input ... " />
+                <marker date="1545899110000" expanded="true" signature="3425:5881" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="3506:3561" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="3613:4283" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="3693:4044" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="3744:3842" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="3863:4030" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="4061:4273" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="4112:4200" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="4336:5012" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="4419:4772" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="4470:4569" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="4590:4758" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="4789:5002" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="4840:4928" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="5066:5434" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="5242:5424" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="5489:5875" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="5683:5865" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="5887:5984" ph="/// Run processes that need to be updated in our game thread ... " />
+                <marker date="1545899110000" expanded="true" signature="6002:6186" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="6041:6091" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="6193:6383" ph="/// Pass an audio sample to the lip sync module for computation ... " />
+                <marker date="1545899110000" expanded="true" signature="6447:7389" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="6462:6572" ph="/* Do not process if we are not initialized, or if there is no ... */" />
+                <marker date="1545899110000" expanded="true" signature="6996:7141" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="7271:7383" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="7395:7561" ph="/// Raises the audio filter read event. ... " />
+                <marker date="1545899110000" expanded="true" signature="7616:7727" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="7652:7721" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="7733:7825" ph="/// Print the visemes and laughter score to game window ... " />
+                <marker date="1545899110000" expanded="true" signature="7864:8824" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="7899:8818" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="7968:8210" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="8239:8658" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="8321:8644" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="8731:8808" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="8856:9247" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="8932:9241" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="9347:10413" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="9418:10407" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="9754:9956" ph="{...}" />
+                <marker date="1545899110000" expanded="true" signature="10171:10373" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/KinectAvater.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="2754">
               <caret line="169" column="9" selection-start-line="169" selection-start-column="9" selection-end-line="169" selection-end-column="9" />
               <folding>
                 <marker date="1555676153638" expanded="false" signature="6:119" ph="..." />
@@ -296,110 +348,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../AniLive_20190216/Assets/OVRLipSync/Scripts/OVRLipSyncMicInput.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
+            <state relative-caret-position="5219">
               <caret line="312" selection-start-line="312" selection-end-line="312" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSyncContextMorphTarget.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
-              <folding>
-                <marker date="1555678401439" expanded="true" signature="0:1134" ph="/* Filename    :   OVRLipSyncContextMorphTarget.cs ... */" />
-                <marker date="1555678401439" expanded="false" signature="1141:1172" ph="..." />
-                <marker date="1555678401439" expanded="true" signature="1231:7631" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="1238:1312" ph="/* PUBLIC ... */" />
-                <marker date="1555678401439" expanded="true" signature="1532:1662" ph="[...]" />
-                <marker date="1555678401439" expanded="true" signature="1560:1660" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="2018:2145" ph="[...]" />
-                <marker date="1555678401439" expanded="true" signature="2188:2519" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="3327:3425" ph="/* PRIVATE ... */" />
-                <marker date="1555678401439" expanded="true" signature="3489:3550" ph="/// Start this instance. ... " />
-                <marker date="1555678401439" expanded="true" signature="3568:4372" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="3709:3902" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="4074:4232" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="4245:4366" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="4378:4440" ph="/// Update this instance. ... " />
-                <marker date="1555678401439" expanded="true" signature="4463:5129" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="4539:5123" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="4702:4829" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="5028:5113" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="5135:5194" ph="/// Sends the signals. ... " />
-                <marker date="1555678401439" expanded="true" signature="5218:5461" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="5258:5426" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="5329:5416" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="5467:5540" ph="/// Sets the viseme to morph target. ... " />
-                <marker date="1555678401439" expanded="true" signature="5596:6005" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="5664:5999" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="5721:5989" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="6011:6086" ph="/// Sets the laughter to morph target. ... " />
-                <marker date="1555678401439" expanded="true" signature="6144:6760" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="6189:6754" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="6766:6956" ph="/// Sends the viseme signal. ... " />
-                <marker date="1555678401439" expanded="true" signature="7017:7294" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="7058:7159" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="7192:7288" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="7300:7367" ph="/// Sends the laughter signal. ... " />
-                <marker date="1555678401439" expanded="true" signature="7395:7629" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="7444:7514" ph="{...}" />
-                <marker date="1555678401439" expanded="true" signature="7555:7623" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSync.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-59">
-              <caret line="270" selection-start-line="270" selection-end-line="270" />
-              <folding>
-                <marker date="1536968530000" expanded="true" signature="0:1100" ph="/* Filename    :   OVRLipSync.cs ... */" />
-                <marker date="1536968530000" expanded="false" signature="1107:1171" ph="..." />
-                <marker date="1536968530000" expanded="true" signature="1173:1283" ph="/* ------------------------------------------------------------------------------------- ... */" />
-                <marker date="1536968530000" expanded="true" signature="1284:1431" ph="/// OVRLipSync interfaces into the Oculus lip sync engine. This component should be added ... " />
-                <marker date="1536968530000" expanded="true" signature="1471:12117" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="1552:2098" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="2160:2445" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="2493:2684" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="2851:2970" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="3133:3213" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="3220:3330" ph="/// NOTE: Opaque typedef for lip-sync context is an unsigned int (uint) ... " />
-                <marker date="1536968530000" expanded="true" signature="3379:4140" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="3428:3631" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="3660:3818" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="4147:4199" ph="/* Import functions ... */" />
-                <marker date="1536968530000" expanded="true" signature="6397:6503" ph="/* Public members ... */" />
-                <marker date="1536968530000" expanded="true" signature="6660:6719" ph="/* MonoBehaviour overrides ... */" />
-                <marker date="1536968530000" expanded="true" signature="6725:6786" ph="/// Awake this instance. ... " />
-                <marker date="1536968530000" expanded="true" signature="6803:7631" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="6942:6992" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="7005:7175" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="7223:7489" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="7323:7479" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="7637:7703" ph="/// Raises the destroy event. ... " />
-                <marker date="1536968530000" expanded="true" signature="7724:8056" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="7761:7914" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="7924:8050" ph="/* Do not shut down at this time ... */" />
-                <marker date="1536968530000" expanded="true" signature="8063:8115" ph="/* Public Functions ... */" />
-                <marker date="1536968530000" expanded="true" signature="8154:8742" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="8811:9108" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="9143:9228" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="9234:9387" ph="/// Determines if is initialized. ... " />
-                <marker date="1536968530000" expanded="true" signature="9428:9469" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="9475:9751" ph="/// Creates a lip-sync context. ... " />
-                <marker date="1536968530000" expanded="true" signature="9921:10171" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="10177:10332" ph="/// Destroy a lip-sync context. ... " />
-                <marker date="1536968530000" expanded="true" signature="10386:10543" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="10549:10694" ph="/// Resets the context. ... " />
-                <marker date="1536968530000" expanded="true" signature="10746:10901" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="10907:11198" ph="/// Sends a signal to the lip-sync engine. ... " />
-                <marker date="1536968530000" expanded="true" signature="11284:11457" ph="{...}" />
-                <marker date="1536968530000" expanded="true" signature="11604:12115" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -407,7 +357,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Windows/Kinect/Body.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-136">
+            <state relative-caret-position="1020">
               <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
               <folding>
                 <marker date="1413528776000" expanded="false" signature="6:79" ph="..." />
@@ -479,7 +429,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Windows/Kinect/BodyFrameReader.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="85">
               <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
               <folding>
                 <marker date="1413528776000" expanded="false" signature="6:79" ph="..." />
@@ -539,9 +489,10 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../AniLive_20190216/Assets/OVRLipSync/Scripts/OVRLipSyncMicInput.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/KinectAvater.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PS4Controller.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/KinectView/Scripts/BodySourceManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSyncContextMorphTarget.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSync.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CafeFace.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OVRLipSync/Scripts/OVRLipSyncContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Windows/Kinect/BodyFrameReader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Windows/Kinect/Body.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -550,28 +501,29 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/KinectAvater.cs" />
         <option value="$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSyncContextMorphTarget.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CafeFace.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="26" />
-    <option name="y" value="95" />
-    <option name="width" value="1525" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="176" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
-      </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -620,11 +572,12 @@
       <updated>1555518408026</updated>
       <workItem from="1555518411820" duration="1526000" />
       <workItem from="1555670989620" duration="2707000" />
+      <workItem from="1555854296949" duration="1052000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4233000" />
+    <option name="totallyTimeSpent" value="5285000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -636,15 +589,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="26" y="95" width="1525" height="1047" extended-state="0" />
+    <frame x="1912" y="176" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16382253" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18381241" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" sideWeight="0.49924356" visible="true" weight="0.13747954" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" sideWeight="0.49848714" visible="true" weight="0.13747954" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -658,7 +612,7 @@
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Unit Tests" order="13" />
       <window_info anchor="bottom" id="Terminal" order="14" />
-      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.50075644" side_tool="true" visible="true" weight="0.105032824" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5015129" side_tool="true" visible="true" weight="0.13747954" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -684,88 +638,52 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/KinectView/Scripts/BodySourceManager.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KinectAvater.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="2754">
+          <caret line="169" column="9" selection-start-line="169" selection-start-column="9" selection-end-line="169" selection-end-column="9" />
           <folding>
-            <marker date="1533382718208" expanded="false" signature="6:66" ph="..." />
-            <marker date="1533382718208" expanded="true" signature="115:1750" ph="{...}" />
-            <marker date="1533382718208" expanded="true" signature="275:309" ph="{...}" />
-            <marker date="1533382718208" expanded="true" signature="345:417" ph="{...}" />
-            <marker date="1533382718208" expanded="true" signature="363:411" ph="{...}" />
-            <marker date="1533382718208" expanded="true" signature="467:513" ph="{...}" />
-            <marker date="1533382718208" expanded="true" signature="533:809" ph="{...}" />
-            <marker date="1533382718208" expanded="true" signature="614:800" ph="{...}" />
-            <marker date="1533382718208" expanded="true" signature="730:790" ph="{...}" />
-            <marker date="1533382718208" expanded="true" signature="834:1402" ph="{...}" />
-            <marker date="1533382718208" expanded="true" signature="869:1392" ph="{...}" />
-            <marker date="1533382718208" expanded="true" signature="964:1382" ph="{...}" />
-            <marker date="1533382718208" expanded="true" signature="1031:1140" ph="{...}" />
-            <marker date="1533382718208" expanded="true" signature="1436:1748" ph="{...}" />
-            <marker date="1533382718208" expanded="true" signature="1471:1550" ph="{...}" />
-            <marker date="1533382718208" expanded="true" signature="1588:1742" ph="{...}" />
-            <marker date="1533382718208" expanded="true" signature="1630:1691" ph="{...}" />
+            <marker date="1555676153638" expanded="false" signature="6:119" ph="..." />
+            <marker date="1555676153638" expanded="true" signature="163:8491" ph="{...}" />
+            <marker date="1555676153638" expanded="true" signature="334:400" ph="/* 自分の関節とUnityちゃんのボーンを入れる用 ... */" />
+            <marker date="1555676153638" expanded="true" signature="1056:2592" ph="{...}" />
+            <marker date="1555676153638" expanded="true" signature="2647:8489" ph="{...}" />
+            <marker date="1555676153638" expanded="true" signature="2681:2768" ph="{...}" />
+            <marker date="1555676153638" expanded="true" signature="2861:2901" ph="{...}" />
+            <marker date="1555676153638" expanded="true" signature="2911:2992" ph="/* 最初に追尾している人のBodyデータを取得する ... */" />
+            <marker date="1555676153638" expanded="true" signature="3076:3116" ph="{...}" />
+            <marker date="1555676153638" expanded="true" signature="3928:3968" ph="/* 鏡 ... */" />
+            <marker date="1555676153638" expanded="true" signature="3990:5647" ph="{...}" />
+            <marker date="1555676153638" expanded="true" signature="5660:7130" ph="{...}" />
+            <marker date="1555676153638" expanded="true" signature="7806:8157" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Windows/Kinect/BodyFrameReader.cs">
+    <entry file="file://$PROJECT_DIR$/../AniLive_20190216/Assets/OVRLipSync/Scripts/OVRLipSyncMicInput.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding>
-            <marker date="1413528776000" expanded="false" signature="6:79" ph="..." />
-            <marker date="1413528776000" expanded="true" signature="104:14929" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="111:158" ph="/* Windows.Kinect.BodyFrameReader ... */" />
-            <marker date="1413528776000" expanded="true" signature="255:14926" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="493:616" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="644:692" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="1305:1785" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="1367:1419" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="1557:1651" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="2178:2878" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="2204:2868" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="2274:2395" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="2626:2695" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="3482:4159" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="3508:3792" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="3578:3699" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="3808:4149" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="3878:3999" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="5128:5788" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="5623:5764" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="6256:8000" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="6282:7165" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="6705:7133" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="7184:7990" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="7254:7318" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="7676:7958" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="8929:9580" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="9415:9556" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="10048:11771" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="10074:10945" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="10491:10913" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="10964:11761" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="11034:11098" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="11450:11729" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="12158:12757" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="12220:12329" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="12547:12604" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="13062:13264" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="13124:13176" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="13303:14920" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="13636:14084" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="13768:13972" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="14433:14878" ph="{...}" />
-            <marker date="1413528776000" expanded="true" signature="14565:14769" ph="{...}" />
-          </folding>
+        <state relative-caret-position="5219">
+          <caret line="312" selection-start-line="312" selection-end-line="312" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSyncContextMorphTarget.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="127" selection-start-line="127" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSync.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4556">
+          <caret line="270" selection-start-line="270" selection-end-line="270" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Windows/Kinect/Body.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
+        <state relative-caret-position="1020">
           <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
           <folding>
             <marker date="1413528776000" expanded="false" signature="6:79" ph="..." />
@@ -833,129 +751,225 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KinectAvater.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Windows/Kinect/BodyFrameReader.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="169" column="9" selection-start-line="169" selection-start-column="9" selection-end-line="169" selection-end-column="9" />
+        <state relative-caret-position="85">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
           <folding>
-            <marker date="1555676153638" expanded="false" signature="6:119" ph="..." />
-            <marker date="1555676153638" expanded="true" signature="163:8491" ph="{...}" />
-            <marker date="1555676153638" expanded="true" signature="334:400" ph="/* 自分の関節とUnityちゃんのボーンを入れる用 ... */" />
-            <marker date="1555676153638" expanded="true" signature="1056:2592" ph="{...}" />
-            <marker date="1555676153638" expanded="true" signature="2647:8489" ph="{...}" />
-            <marker date="1555676153638" expanded="true" signature="2681:2768" ph="{...}" />
-            <marker date="1555676153638" expanded="true" signature="2861:2901" ph="{...}" />
-            <marker date="1555676153638" expanded="true" signature="2911:2992" ph="/* 最初に追尾している人のBodyデータを取得する ... */" />
-            <marker date="1555676153638" expanded="true" signature="3076:3116" ph="{...}" />
-            <marker date="1555676153638" expanded="true" signature="3928:3968" ph="/* 鏡 ... */" />
-            <marker date="1555676153638" expanded="true" signature="3990:5647" ph="{...}" />
-            <marker date="1555676153638" expanded="true" signature="5660:7130" ph="{...}" />
-            <marker date="1555676153638" expanded="true" signature="7806:8157" ph="{...}" />
+            <marker date="1413528776000" expanded="false" signature="6:79" ph="..." />
+            <marker date="1413528776000" expanded="true" signature="104:14929" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="111:158" ph="/* Windows.Kinect.BodyFrameReader ... */" />
+            <marker date="1413528776000" expanded="true" signature="255:14926" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="493:616" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="644:692" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="1305:1785" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="1367:1419" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="1557:1651" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="2178:2878" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="2204:2868" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="2274:2395" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="2626:2695" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="3482:4159" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="3508:3792" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="3578:3699" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="3808:4149" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="3878:3999" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="5128:5788" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="5623:5764" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="6256:8000" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="6282:7165" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="6705:7133" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="7184:7990" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="7254:7318" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="7676:7958" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="8929:9580" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="9415:9556" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="10048:11771" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="10074:10945" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="10491:10913" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="10964:11761" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="11034:11098" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="11450:11729" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="12158:12757" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="12220:12329" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="12547:12604" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="13062:13264" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="13124:13176" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="13303:14920" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="13636:14084" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="13768:13972" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="14433:14878" ph="{...}" />
+            <marker date="1413528776000" expanded="true" signature="14565:14769" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AniLive_20190216/Assets/OVRLipSync/Scripts/OVRLipSyncMicInput.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/KinectView/Scripts/BodySourceManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="312" selection-start-line="312" selection-end-line="312" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSyncContextMorphTarget.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
+        <state relative-caret-position="51">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="16" />
           <folding>
-            <marker date="1555678401439" expanded="true" signature="0:1134" ph="/* Filename    :   OVRLipSyncContextMorphTarget.cs ... */" />
-            <marker date="1555678401439" expanded="false" signature="1141:1172" ph="..." />
-            <marker date="1555678401439" expanded="true" signature="1231:7631" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="1238:1312" ph="/* PUBLIC ... */" />
-            <marker date="1555678401439" expanded="true" signature="1532:1662" ph="[...]" />
-            <marker date="1555678401439" expanded="true" signature="1560:1660" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="2018:2145" ph="[...]" />
-            <marker date="1555678401439" expanded="true" signature="2188:2519" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="3327:3425" ph="/* PRIVATE ... */" />
-            <marker date="1555678401439" expanded="true" signature="3489:3550" ph="/// Start this instance. ... " />
-            <marker date="1555678401439" expanded="true" signature="3568:4372" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="3709:3902" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="4074:4232" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="4245:4366" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="4378:4440" ph="/// Update this instance. ... " />
-            <marker date="1555678401439" expanded="true" signature="4463:5129" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="4539:5123" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="4702:4829" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="5028:5113" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="5135:5194" ph="/// Sends the signals. ... " />
-            <marker date="1555678401439" expanded="true" signature="5218:5461" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="5258:5426" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="5329:5416" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="5467:5540" ph="/// Sets the viseme to morph target. ... " />
-            <marker date="1555678401439" expanded="true" signature="5596:6005" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="5664:5999" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="5721:5989" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="6011:6086" ph="/// Sets the laughter to morph target. ... " />
-            <marker date="1555678401439" expanded="true" signature="6144:6760" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="6189:6754" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="6766:6956" ph="/// Sends the viseme signal. ... " />
-            <marker date="1555678401439" expanded="true" signature="7017:7294" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="7058:7159" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="7192:7288" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="7300:7367" ph="/// Sends the laughter signal. ... " />
-            <marker date="1555678401439" expanded="true" signature="7395:7629" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="7444:7514" ph="{...}" />
-            <marker date="1555678401439" expanded="true" signature="7555:7623" ph="{...}" />
+            <marker date="1533382718208" expanded="false" signature="6:66" ph="..." />
+            <marker date="1533382718208" expanded="true" signature="115:1750" ph="{...}" />
+            <marker date="1533382718208" expanded="true" signature="275:309" ph="{...}" />
+            <marker date="1533382718208" expanded="true" signature="345:417" ph="{...}" />
+            <marker date="1533382718208" expanded="true" signature="363:411" ph="{...}" />
+            <marker date="1533382718208" expanded="true" signature="467:513" ph="{...}" />
+            <marker date="1533382718208" expanded="true" signature="533:809" ph="{...}" />
+            <marker date="1533382718208" expanded="true" signature="614:800" ph="{...}" />
+            <marker date="1533382718208" expanded="true" signature="730:790" ph="{...}" />
+            <marker date="1533382718208" expanded="true" signature="834:1402" ph="{...}" />
+            <marker date="1533382718208" expanded="true" signature="869:1392" ph="{...}" />
+            <marker date="1533382718208" expanded="true" signature="964:1382" ph="{...}" />
+            <marker date="1533382718208" expanded="true" signature="1031:1140" ph="{...}" />
+            <marker date="1533382718208" expanded="true" signature="1436:1748" ph="{...}" />
+            <marker date="1533382718208" expanded="true" signature="1471:1550" ph="{...}" />
+            <marker date="1533382718208" expanded="true" signature="1588:1742" ph="{...}" />
+            <marker date="1533382718208" expanded="true" signature="1630:1691" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Oculus/LipSync/Scripts/OVRLipSync.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PS4Controller.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-59">
-          <caret line="270" selection-start-line="270" selection-end-line="270" />
+        <state relative-caret-position="68">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
           <folding>
-            <marker date="1536968530000" expanded="true" signature="0:1100" ph="/* Filename    :   OVRLipSync.cs ... */" />
-            <marker date="1536968530000" expanded="false" signature="1107:1171" ph="..." />
-            <marker date="1536968530000" expanded="true" signature="1173:1283" ph="/* ------------------------------------------------------------------------------------- ... */" />
-            <marker date="1536968530000" expanded="true" signature="1284:1431" ph="/// OVRLipSync interfaces into the Oculus lip sync engine. This component should be added ... " />
-            <marker date="1536968530000" expanded="true" signature="1471:12117" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="1552:2098" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="2160:2445" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="2493:2684" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="2851:2970" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="3133:3213" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="3220:3330" ph="/// NOTE: Opaque typedef for lip-sync context is an unsigned int (uint) ... " />
-            <marker date="1536968530000" expanded="true" signature="3379:4140" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="3428:3631" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="3660:3818" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="4147:4199" ph="/* Import functions ... */" />
-            <marker date="1536968530000" expanded="true" signature="6397:6503" ph="/* Public members ... */" />
-            <marker date="1536968530000" expanded="true" signature="6660:6719" ph="/* MonoBehaviour overrides ... */" />
-            <marker date="1536968530000" expanded="true" signature="6725:6786" ph="/// Awake this instance. ... " />
-            <marker date="1536968530000" expanded="true" signature="6803:7631" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="6942:6992" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="7005:7175" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="7223:7489" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="7323:7479" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="7637:7703" ph="/// Raises the destroy event. ... " />
-            <marker date="1536968530000" expanded="true" signature="7724:8056" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="7761:7914" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="7924:8050" ph="/* Do not shut down at this time ... */" />
-            <marker date="1536968530000" expanded="true" signature="8063:8115" ph="/* Public Functions ... */" />
-            <marker date="1536968530000" expanded="true" signature="8154:8742" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="8811:9108" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="9143:9228" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="9234:9387" ph="/// Determines if is initialized. ... " />
-            <marker date="1536968530000" expanded="true" signature="9428:9469" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="9475:9751" ph="/// Creates a lip-sync context. ... " />
-            <marker date="1536968530000" expanded="true" signature="9921:10171" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="10177:10332" ph="/// Destroy a lip-sync context. ... " />
-            <marker date="1536968530000" expanded="true" signature="10386:10543" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="10549:10694" ph="/// Resets the context. ... " />
-            <marker date="1536968530000" expanded="true" signature="10746:10901" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="10907:11198" ph="/// Sends a signal to the lip-sync engine. ... " />
-            <marker date="1536968530000" expanded="true" signature="11284:11457" ph="{...}" />
-            <marker date="1536968530000" expanded="true" signature="11604:12115" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="6:110" ph="..." />
+            <marker date="1545899110000" expanded="true" signature="155:2533" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="189:551" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="511:532" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="557:687" ph="/* 仕様では入力は16まである想定のため、Facialボタンと記号ボタンの16通りで行う。 ... */" />
+            <marker date="1545899110000" expanded="true" signature="734:1312" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="768:865" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="898:999" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="1033:1134" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="1143:1283" ph="/* else if(i &gt;= 12 &amp;&amp; i &lt; 16) ... */" />
+            <marker date="1545899110000" expanded="true" signature="1358:1936" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="1392:1489" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="1522:1623" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="1657:1758" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="1767:1907" ph="/* else if(i &gt;= 12 &amp;&amp; i &lt; 16) ... */" />
+            <marker date="1545899110000" expanded="true" signature="2012:2119" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="2165:2270" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="2321:2531" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="2355:2429" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="2442:2525" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CafeFace.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="225" selection-start-line="225" selection-end-line="225" />
+          <folding>
+            <marker date="1555854585180" expanded="false" signature="6:66" ph="..." />
+            <marker date="1555854585180" expanded="true" signature="101:7401" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="290:397" ph="/* private VLARKitEyeTracking _vlARKitEyeTracking = null; ... */" />
+            <marker date="1555854585180" expanded="true" signature="403:476" ph="///  PoseのdetailIndexで設定。表示したいメシュの名前 ... " />
+            <marker date="1555854585180" expanded="true" signature="523:582" ph="/// detail mesh表示のスピード ... " />
+            <marker date="1555854585180" expanded="true" signature="902:1326" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="1216:1283" ph="/// detailMeshNamesのやつ ... " />
+            <marker date="1555854585180" expanded="true" signature="1371:1657" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="1995:2161" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="2198:2744" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="2330:2402" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="2412:2714" ph="/* iPhoneX(ARKit)を使う時にだけ作用するようにする ... */" />
+            <marker date="1555854585180" expanded="true" signature="2762:3408" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="2842:3065" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="3175:3250" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="3455:3632" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="3677:3817" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="3863:3875" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="3911:4010" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="3949:4004" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="4046:4183" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="4233:4355" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="4402:4446" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="4492:4647" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="4534:4640" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="4666:5951" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="4737:5156" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="4800:5146" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="4868:4930" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="4947:5132" ph="/* 押している間、表情変わり、離すと表情戻る機能だと少々使いにくかったため、ひとまずコメントアウトしておく ... */" />
+            <marker date="1555854585180" expanded="true" signature="5296:5766" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="5318:5712" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="5333:5648" ph="/* if (pattern[pressedKeyboardNumber].skinIndex == 0) ... */" />
+            <marker date="1555854585180" expanded="true" signature="5816:5945" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="5987:6387" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="6224:6381" ph="/* 使わないことも想定されるためコンポーネントがアクティブになっていることを確認する ... */" />
+            <marker date="1555854585180" expanded="true" signature="6423:6841" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="6529:6592" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="6661:6835" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="6723:6825" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="6871:7313" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="6933:7299" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="7000:7029" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="7104:7289" ph="{...}" />
+            <marker date="1555854585180" expanded="true" signature="7348:7399" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/OVRLipSync/Scripts/OVRLipSyncContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="207" selection-start-line="207" selection-end-line="207" />
+          <folding>
+            <marker date="1545899110000" expanded="true" signature="0:1107" ph="/* Filename    :   OVRLipSyncContext.cs ... */" />
+            <marker date="1545899110000" expanded="true" signature="1169:1466" ph="/* OVRLipSyncContext interfaces into the Oculus phoneme recognizer. ... */" />
+            <marker date="1545899110000" expanded="true" signature="1521:10415" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="1528:1578" ph="/* Public members ... */" />
+            <marker date="1545899110000" expanded="true" signature="2706:2757" ph="/* Private members ... */" />
+            <marker date="1545899110000" expanded="true" signature="2763:2918" ph="/// Start this instance. ... " />
+            <marker date="1545899110000" expanded="true" signature="2935:3331" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="3033:3115" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="3262:3325" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="3337:3399" ph="/// Handle keyboard input ... " />
+            <marker date="1545899110000" expanded="true" signature="3425:5881" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="3506:3561" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="3613:4283" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="3693:4044" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="3744:3842" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="3863:4030" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="4061:4273" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="4112:4200" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="4336:5012" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="4419:4772" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="4470:4569" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="4590:4758" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="4789:5002" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="4840:4928" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="5066:5434" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="5242:5424" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="5489:5875" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="5683:5865" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="5887:5984" ph="/// Run processes that need to be updated in our game thread ... " />
+            <marker date="1545899110000" expanded="true" signature="6002:6186" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="6041:6091" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="6193:6383" ph="/// Pass an audio sample to the lip sync module for computation ... " />
+            <marker date="1545899110000" expanded="true" signature="6447:7389" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="6462:6572" ph="/* Do not process if we are not initialized, or if there is no ... */" />
+            <marker date="1545899110000" expanded="true" signature="6996:7141" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="7271:7383" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="7395:7561" ph="/// Raises the audio filter read event. ... " />
+            <marker date="1545899110000" expanded="true" signature="7616:7727" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="7652:7721" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="7733:7825" ph="/// Print the visemes and laughter score to game window ... " />
+            <marker date="1545899110000" expanded="true" signature="7864:8824" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="7899:8818" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="7968:8210" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="8239:8658" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="8321:8644" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="8731:8808" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="8856:9247" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="8932:9241" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="9347:10413" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="9418:10407" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="9754:9956" ph="{...}" />
+            <marker date="1545899110000" expanded="true" signature="10171:10373" ph="{...}" />
           </folding>
         </state>
       </provider>
