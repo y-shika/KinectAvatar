@@ -226,7 +226,7 @@ public class CafeFace : CharaFace
         }
 
 		var pressedKeyboardNumber = InputHelp.GetNumberDown();
-        if ( Input.GetKey(KeyCode.F) && pattern.HasIndex(pressedKeyboardNumber) ){
+        if (/* Input.GetKey(KeyCode.F) && */pattern.HasIndex(pressedKeyboardNumber) ){
 			if (useSkinBlend)
             {
 //				if (pattern[pressedKeyboardNumber].skinIndex == 0)

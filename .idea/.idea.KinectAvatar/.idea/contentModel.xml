@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\shika\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\shika\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_KinectAvatar.-243004535.00" t="ExcludeRecursive" />
-    <e p="C:\Users\shika\work\Unity\KinectAvatar" t="IncludeRecursive">
+    <e p="C:\Users\shika\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_KinectAvatar.-1807103388.00" t="ExcludeRecursive" />
+    <e p="D:\work\Unity\KinectAvatar" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
@@ -582,6 +582,17 @@
           </e>
           <e p="Voice" t="Include">
             <e p="unity-chan_voice_list.txt" t="Include" />
+          </e>
+        </e>
+        <e p="VoiceChangerFilter" t="Include">
+          <e p="licenses" t="Include">
+            <e p="SampleVoice_License.txt" t="Include" />
+            <e p="World_License.txt" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="SetupMicrophone.cs" t="Include" />
+            <e p="VoiceChangerDemoScene.cs" t="Include" />
+            <e p="VoiceChangerFilter.cs" t="Include" />
           </e>
         </e>
       </e>
