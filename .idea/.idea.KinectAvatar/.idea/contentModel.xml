@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\shika\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\shika\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_KinectAvatar.-1807103388.00" t="ExcludeRecursive" />
-    <e p="D:\work\Unity\KinectAvatar" t="IncludeRecursive">
+    <e p="C:\Users\shika\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_KinectAvatar.-243004535.00" t="ExcludeRecursive" />
+    <e p="C:\Users\shika\work\Unity\KinectAvatar" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Editor" t="Include">
+          <e p="BlendShapeIndexViewerWindow.cs" t="Include" />
           <e p="OVRLipSyncMicInputInspector.cs" t="Include" />
         </e>
         <e p="External" t="Include">
@@ -423,6 +424,7 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="AutoBlink.cs" t="Include" />
+          <e p="BlendshapeCopy.cs" t="Include" />
           <e p="BlendshapeSetter.cs" t="Include" />
           <e p="CafeFace.cs" t="Include" />
           <e p="CharaFace.cs" t="Include" />

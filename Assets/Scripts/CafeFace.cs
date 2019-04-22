@@ -158,7 +158,7 @@ public class CafeFace : CharaFace
     public override void SetFace(int index)
     {
         var anim = GetComponent<Animator>();
-        anim.SetInteger("Exp", (int)index);
+        //anim.SetInteger("Exp", (int)index);
         SetEyes(pattern[index].eyeid);
     }
 
